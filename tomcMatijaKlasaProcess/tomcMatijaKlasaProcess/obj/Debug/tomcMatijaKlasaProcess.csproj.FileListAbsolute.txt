@@ -1,0 +1,9 @@
+C:\Users\Matija\source\repos\tomcMatijaKlasaProcess\tomcMatijaKlasaProcess\bin\Debug\tomcMatijaKlasaProcess.exe.config
+C:\Users\Matija\source\repos\tomcMatijaKlasaProcess\tomcMatijaKlasaProcess\bin\Debug\tomcMatijaKlasaProcess.exe
+C:\Users\Matija\source\repos\tomcMatijaKlasaProcess\tomcMatijaKlasaProcess\bin\Debug\tomcMatijaKlasaProcess.pdb
+C:\Users\Matija\source\repos\tomcMatijaKlasaProcess\tomcMatijaKlasaProcess\obj\Debug\tomcMatijaKlasaProcess.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaKlasaProcess\tomcMatijaKlasaProcess\obj\Debug\tomcMatijaKlasaProcess.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaKlasaProcess\tomcMatijaKlasaProcess\obj\Debug\tomcMatijaKlasaProcess.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaKlasaProcess\tomcMatijaKlasaProcess\obj\Debug\tomcMatijaKlasaProcess.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaKlasaProcess\tomcMatijaKlasaProcess\obj\Debug\tomcMatijaKlasaProcess.exe
+C:\Users\Matija\source\repos\tomcMatijaKlasaProcess\tomcMatijaKlasaProcess\obj\Debug\tomcMatijaKlasaProcess.pdb
