@@ -1,0 +1,5 @@
+C:\Users\Matija\source\repos\tomcMatijaRadSViseFormi\tomcMatijaRadSViseFormi\obj\Debug\tomcMatijaRadSViseFormi.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaRadSViseFormi\tomcMatijaRadSViseFormi\obj\Debug\tomcMatijaRadSViseFormi.FormStudent.resources
+C:\Users\Matija\source\repos\tomcMatijaRadSViseFormi\tomcMatijaRadSViseFormi\obj\Debug\tomcMatijaRadSViseFormi.FormUnosNovogStudenta.resources
+C:\Users\Matija\source\repos\tomcMatijaRadSViseFormi\tomcMatijaRadSViseFormi\obj\Debug\tomcMatijaRadSViseFormi.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaRadSViseFormi\tomcMatijaRadSViseFormi\obj\Debug\tomcMatijaRadSViseFormi.csproj.GenerateResource.cache
