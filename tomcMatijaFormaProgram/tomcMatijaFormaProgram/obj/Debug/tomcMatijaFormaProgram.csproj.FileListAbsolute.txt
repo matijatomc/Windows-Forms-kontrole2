@@ -1,0 +1,10 @@
+C:\Users\Matija\source\repos\tomcMatijaFormaProgram\tomcMatijaFormaProgram\bin\Debug\tomcMatijaFormaProgram.exe.config
+C:\Users\Matija\source\repos\tomcMatijaFormaProgram\tomcMatijaFormaProgram\bin\Debug\tomcMatijaFormaProgram.exe
+C:\Users\Matija\source\repos\tomcMatijaFormaProgram\tomcMatijaFormaProgram\bin\Debug\tomcMatijaFormaProgram.pdb
+C:\Users\Matija\source\repos\tomcMatijaFormaProgram\tomcMatijaFormaProgram\obj\Debug\tomcMatijaFormaProgram.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaFormaProgram\tomcMatijaFormaProgram\obj\Debug\tomcMatijaFormaProgram.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaFormaProgram\tomcMatijaFormaProgram\obj\Debug\tomcMatijaFormaProgram.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaFormaProgram\tomcMatijaFormaProgram\obj\Debug\tomcMatijaFormaProgram.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaFormaProgram\tomcMatijaFormaProgram\obj\Debug\tomcMatijaFormaProgram.exe
+C:\Users\Matija\source\repos\tomcMatijaFormaProgram\tomcMatijaFormaProgram\obj\Debug\tomcMatijaFormaProgram.pdb
+C:\Users\Matija\source\repos\tomcMatijaFormaProgram\tomcMatijaFormaProgram\obj\Debug\tomcMatijaFormaProgram.Text.resources
